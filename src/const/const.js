@@ -1,0 +1,1 @@
+export  const URL_API= 'https://mydb-fafc.restdb.io/rest/customers?q='
